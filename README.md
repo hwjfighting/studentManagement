@@ -4,6 +4,4 @@
 
 动态效果图：
 
-
-
-![2d](README.assets/2d.gif)
+![image](https://github.com/hwjfighting/studentManagement/blob/master/pic/2d.gif)   
